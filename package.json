@@ -1,0 +1,21 @@
+{
+  "name": "ds-foundryvtt-converter",
+  "version": "1.0.0",
+  "description": "A converter from Forge Steel and the Steel Compendium to FoundryVTT",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint",
+    "lint:fix": "eslint --fix"
+  },
+  "keywords": [
+    "fvtt"
+  ],
+  "author": "Joseph Meehan",
+  "license": "MIT",
+  "dependencies": {
+    "@eslint/js": "^9.32.0",
+    "@stylistic/eslint-plugin": "^5.2.2",
+    "eslint": "^9.32.0",
+    "eslint-plugin-jsdoc": "^52.0.2"
+  }
+}
