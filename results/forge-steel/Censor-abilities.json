@@ -14,7 +14,7 @@
         "melee",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -34,7 +34,7 @@
         "ranged",
         "strike"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -54,7 +54,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -74,7 +74,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -94,7 +94,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -114,7 +114,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -135,7 +135,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -155,7 +155,7 @@
         "ranged",
         "strike"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -176,7 +176,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -198,7 +198,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -218,7 +218,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -240,7 +240,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -259,7 +259,7 @@
         "area",
         "magic"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -278,7 +278,7 @@
         "area",
         "magic"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -297,7 +297,7 @@
         "area",
         "magic"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -316,7 +316,7 @@
         "area",
         "magic"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -334,7 +334,7 @@
       "keywords": [
         "ranged"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -352,7 +352,7 @@
       "keywords": [
         "area"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -372,7 +372,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -392,7 +392,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -412,7 +412,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -432,7 +432,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -452,7 +452,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -472,7 +472,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}

@@ -11,7 +11,7 @@
       "keywords": [
         "ranged"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -32,7 +32,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -53,7 +53,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -71,7 +71,7 @@
       "keywords": [
         "ranged"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -92,7 +92,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -113,7 +113,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -132,7 +132,7 @@
         "ranged",
         "weapon"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -150,7 +150,7 @@
       "keywords": [
         "ranged"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -166,7 +166,7 @@
         "revision": 1
       },
       "keywords": [],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -182,7 +182,7 @@
         "revision": 1
       },
       "keywords": [],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -198,7 +198,7 @@
         "revision": 1
       },
       "keywords": [],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -214,7 +214,7 @@
         "revision": 1
       },
       "keywords": [],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -234,7 +234,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -252,7 +252,7 @@
       "keywords": [
         "ranged"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -270,7 +270,7 @@
       "keywords": [
         "area"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -288,7 +288,7 @@
       "keywords": [
         "ranged"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -306,7 +306,7 @@
       "keywords": [
         "ranged"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -324,8 +324,8 @@
       "keywords": [
         "ranged"
       ],
-      "type": "",
-      "trigger": "",
+      "type": "freeTriggered",
+      "trigger": "The target is not a leader or solo creature, and becomes winded.",
       "distance": {},
       "target": {}
     }
@@ -342,7 +342,7 @@
       "keywords": [
         "ranged"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -363,7 +363,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}

@@ -15,7 +15,7 @@
         "ranged",
         "strike"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -36,7 +36,7 @@
         "ranged",
         "strike"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -57,7 +57,7 @@
         "strike",
         "void"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -78,7 +78,7 @@
         "ranged",
         "strike"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -99,7 +99,7 @@
         "melee",
         "strike"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -120,7 +120,7 @@
         "strike",
         "void"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -141,7 +141,7 @@
         "magic",
         "ranged"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -162,7 +162,7 @@
         "ranged",
         "strike"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -183,7 +183,7 @@
         "ranged",
         "void"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -204,7 +204,7 @@
         "ranged",
         "strike"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -225,7 +225,7 @@
         "ranged",
         "strike"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -245,7 +245,7 @@
         "earth",
         "magic"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -266,7 +266,7 @@
         "magic",
         "ranged"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -286,7 +286,7 @@
         "magic",
         "ranged"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -306,7 +306,7 @@
         "ranged",
         "void"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -327,7 +327,7 @@
         "magic",
         "ranged"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -349,7 +349,7 @@
         "magic",
         "ranged"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -371,7 +371,7 @@
         "strike",
         "void"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -392,7 +392,7 @@
         "ranged",
         "void"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -414,7 +414,7 @@
         "ranged",
         "strike"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -435,7 +435,7 @@
         "strike",
         "void"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -456,7 +456,7 @@
         "magic",
         "ranged"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -476,7 +476,7 @@
         "green",
         "magic"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -497,7 +497,7 @@
         "magic",
         "ranged"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -518,7 +518,7 @@
         "ranged",
         "strike"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -539,7 +539,7 @@
         "earth",
         "ranged"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -560,7 +560,7 @@
         "ranged",
         "strike"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -581,7 +581,7 @@
         "green",
         "ranged"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -603,7 +603,7 @@
         "ranged",
         "void"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -625,7 +625,7 @@
         "ranged",
         "earth"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -647,7 +647,7 @@
         "void",
         "ranged"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -669,7 +669,7 @@
         "earth",
         "void"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -689,7 +689,7 @@
         "magic",
         "ranged"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -711,7 +711,7 @@
         "void",
         "ranged"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -732,7 +732,7 @@
         "void",
         "ranged"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -752,7 +752,7 @@
         "magic",
         "earth"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -773,7 +773,7 @@
         "earth",
         "ranged"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -793,7 +793,7 @@
         "magic",
         "ranged"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -812,7 +812,7 @@
         "magic",
         "void"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -833,7 +833,7 @@
         "strike",
         "ranged"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}

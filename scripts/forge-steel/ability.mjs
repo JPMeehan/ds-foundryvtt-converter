@@ -3,7 +3,7 @@
  * @param {object} source
  */
 export default function parseAbility(source) {
-  const sourceData = {
+  const foundryData = {
     name: source.name,
     type: "ability",
     system: {
@@ -14,7 +14,7 @@ export default function parseAbility(source) {
       },
       keywords: source.keywords.map(k => k.toLowerCase()),
       type: "",
-      trigger: "",
+      trigger: source.type.trigger,
       distance: {
 
       },
@@ -24,5 +24,17 @@ export default function parseAbility(source) {
     },
   };
 
-  return sourceData;
+  switch (source.type.usage) {
+    case "Main Action":
+      foundryData.system.type = "main";
+      break;
+    case "Maneuver":
+      foundryData.system.type = source.type.free ? "freeManeuver" : "maneuver";
+      break;
+    case "Triggered Action":
+      foundryData.system.type = source.type.free ? "freeTriggered" : "triggered";
+      break;
+  }
+
+  return foundryData;
 }

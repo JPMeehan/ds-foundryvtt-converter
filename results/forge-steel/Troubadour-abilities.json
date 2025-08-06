@@ -13,7 +13,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -34,7 +34,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -54,7 +54,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -75,7 +75,7 @@
         "ranged",
         "strike"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -96,7 +96,7 @@
         "ranged",
         "strike"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -115,7 +115,7 @@
         "area",
         "magic"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -135,7 +135,7 @@
         "magic",
         "ranged"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -155,7 +155,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -174,7 +174,7 @@
         "area",
         "magic"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -192,7 +192,7 @@
       "keywords": [
         "magic"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -211,7 +211,7 @@
         "area",
         "magic"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -231,7 +231,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -250,7 +250,7 @@
         "area",
         "magic"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -271,7 +271,7 @@
         "melee",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -291,7 +291,7 @@
         "melee",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -310,7 +310,7 @@
         "magic",
         "ranged"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -329,7 +329,7 @@
         "magic",
         "ranged"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -348,7 +348,7 @@
         "magic",
         "ranged"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -366,7 +366,7 @@
       "keywords": [
         "magic"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -385,7 +385,7 @@
         "magic",
         "ranged"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -403,7 +403,7 @@
       "keywords": [
         "magic"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -423,7 +423,7 @@
         "magic",
         "ranged"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}

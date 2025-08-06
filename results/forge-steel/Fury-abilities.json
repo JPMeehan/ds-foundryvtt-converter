@@ -13,7 +13,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -33,7 +33,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -53,7 +53,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -73,7 +73,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -93,7 +93,7 @@
         "melee",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -113,7 +113,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -133,7 +133,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -153,7 +153,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -173,7 +173,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -189,7 +189,7 @@
         "revision": 1
       },
       "keywords": [],
-      "type": "",
+      "type": "freeManeuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -209,7 +209,7 @@
         "melee",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -229,7 +229,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -247,7 +247,7 @@
       "keywords": [
         "magic"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -265,7 +265,7 @@
       "keywords": [
         "magic"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -283,7 +283,7 @@
       "keywords": [
         "magic"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -303,7 +303,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -323,7 +323,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -343,8 +343,8 @@
         "strike",
         "weapon"
       ],
-      "type": "",
-      "trigger": "",
+      "type": "triggered",
+      "trigger": "A creature causes you to be winded or dying, or damages you while you are winded or dying.",
       "distance": {},
       "target": {}
     }
@@ -363,7 +363,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -384,7 +384,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -402,7 +402,7 @@
       "keywords": [
         "magic"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -423,7 +423,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -441,7 +441,7 @@
       "keywords": [
         "magic"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -462,7 +462,7 @@
         "strike",
         "weapon"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}

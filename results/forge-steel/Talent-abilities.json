@@ -14,7 +14,7 @@
         "ranged",
         "strike"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -35,7 +35,7 @@
         "ranged",
         "strike"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -57,7 +57,7 @@
         "ranged",
         "pyrokinesis"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -77,7 +77,7 @@
         "ranged",
         "telekinesis"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -97,7 +97,7 @@
         "psionic",
         "telepathy"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -118,7 +118,7 @@
         "resopathy",
         "strike"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -139,7 +139,7 @@
         "ranged",
         "strike"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -160,7 +160,7 @@
         "psionic",
         "strike"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -181,7 +181,7 @@
         "strike",
         "telepathy"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -202,7 +202,7 @@
         "strike",
         "telekinesis"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -222,7 +222,7 @@
         "melee",
         "psionic"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -243,7 +243,7 @@
         "ranged",
         "strike"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -263,7 +263,7 @@
         "psionic",
         "ranged"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -283,7 +283,7 @@
         "ranged",
         "telekinesis"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -303,7 +303,7 @@
         "psionic",
         "ranged"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -323,7 +323,7 @@
         "ranged",
         "telepathy"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -344,7 +344,7 @@
         "ranged",
         "strike"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -365,7 +365,7 @@
         "strike",
         "telekinesis"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -385,7 +385,7 @@
         "psionic",
         "telepathy"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -406,7 +406,7 @@
         "ranged",
         "strike"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -426,7 +426,7 @@
         "psionic",
         "ranged"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -447,7 +447,7 @@
         "psionic",
         "telekinesis"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -468,7 +468,7 @@
         "strike",
         "telepathy"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -489,7 +489,7 @@
         "ranged",
         "strike"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -510,7 +510,7 @@
         "ranged",
         "strike"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -531,7 +531,7 @@
         "ranged",
         "telepathy"
       ],
-      "type": "",
+      "type": "main",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -551,7 +551,7 @@
         "psionic",
         "ranged"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
@@ -571,7 +571,7 @@
         "psionic",
         "ranged"
       ],
-      "type": "",
+      "type": "maneuver",
       "trigger": "",
       "distance": {},
       "target": {}
