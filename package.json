@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint",
-    "lint:fix": "eslint --fix"
+    "lint:fix": "eslint --fix",
+    "forge-steel": "node scripts/forge-steel/main.mjs"
   },
   "keywords": [
     "fvtt"
