@@ -1,0 +1,432 @@
+[
+  {
+    "name": "Artful Flourish",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Cutting Sarcasm",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic",
+        "ranged",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Instigator",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Witty Banter",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic",
+        "melee",
+        "ranged",
+        "strike"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Harsh Critic",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic",
+        "melee",
+        "ranged",
+        "strike"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Hypnotic Overtones",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "area",
+        "magic"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Quick Rewrite",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "area",
+        "magic",
+        "ranged"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Upstage",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Dramatic Reversal",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "area",
+        "magic"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Fake Your Death",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Flip the Script",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "area",
+        "magic"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Method Acting",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Extensive Rewrites",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "area",
+        "magic"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Infernal Gavotte",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "area",
+        "magic",
+        "melee",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Action Hero",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "area",
+        "melee",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Continuity Error",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic",
+        "ranged"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Love Song",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic",
+        "ranged"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Patter Song",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic",
+        "ranged"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Dramatic Reveal",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Power Ballad",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic",
+        "ranged"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Saved in the Edit",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "The Show Must Go On",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "area",
+        "magic",
+        "ranged"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  }
+]

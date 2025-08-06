@@ -1,0 +1,551 @@
+[
+  {
+    "name": "Blessed Light",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic",
+        "ranged",
+        "strike"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Drain",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic",
+        "melee",
+        "strike"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Holy Lash",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic",
+        "ranged",
+        "strike"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Lightfall",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "area",
+        "magic"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Sacrificial Offer",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic",
+        "ranged",
+        "strike"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Staggering Curse",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic",
+        "melee",
+        "strike"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Warrior's Prayer",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic",
+        "ranged",
+        "strike"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Wither",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic",
+        "ranged",
+        "strike"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Call the Thunder Down",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "area",
+        "magic",
+        "ranged"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Font of Wrath",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic",
+        "ranged"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Judgment's Hammer",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic",
+        "ranged",
+        "strike"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Violence Will Not Aid Thee",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic",
+        "ranged",
+        "strike"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Corruption's Curse",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic",
+        "ranged",
+        "strike"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Curse of Terror",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic",
+        "ranged",
+        "strike"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Faith is Our Armor",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic",
+        "ranged"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Sermon of Grace",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "area",
+        "magic"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Fear of the Gods",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "area",
+        "magic",
+        "ranged"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Saint's Raiment",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic",
+        "ranged"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Soul Siphon",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic",
+        "ranged",
+        "strike"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Words of Wrath and Grace",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "area",
+        "magic"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Beacon of Grace",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic",
+        "ranged",
+        "strike"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Penance",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "area",
+        "magic",
+        "ranged"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Sanctuary",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic",
+        "ranged"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Vessel of Retribution",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic",
+        "ranged"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Arise!",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic",
+        "ranged"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Blessing of Steel",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "area",
+        "magic"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Blessing of the Blade",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "area",
+        "magic"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Drag the Unworthy",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic",
+        "ranged",
+        "strike"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  }
+]

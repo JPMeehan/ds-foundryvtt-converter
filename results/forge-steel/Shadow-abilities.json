@@ -1,0 +1,482 @@
+[
+  {
+    "name": "Gasping in Pain",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "I Work Better Alone",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "ranged",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Teamwork Has Its Place",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "ranged",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "You Were Watching The Wrong One",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Disorienting Strike",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Eviscerate",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "ranged",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Get In Get Out",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Two Throats At Once",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "ranged",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Coup de Grâce",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "ranged",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "One Hundred Throats",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Setup",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "ranged",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Shadowstrike",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic",
+        "melee",
+        "ranged"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Dancer",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Misdirecting Strike",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "ranged",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Pinning Shot",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "ranged",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Staggering Blow",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "ranged",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Blackout",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "area",
+        "magic"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Into the Shadows",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic",
+        "melee",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Shadowfall",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "area",
+        "melee",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "You Talk Too Much",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "ranged",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Assassinate",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Shadowgrasp",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "area",
+        "magic"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Speed of Shadows",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "magic"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "They Always Line Up",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "area",
+        "ranged",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  }
+]

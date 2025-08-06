@@ -1,0 +1,580 @@
+[
+  {
+    "name": "Entropic Bolt",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "chronopathy",
+        "psionic",
+        "ranged",
+        "strike"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Hoarfrost",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "cryokinesis",
+        "psionic",
+        "ranged",
+        "strike"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Incinerate",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "area",
+        "fire",
+        "psionic",
+        "ranged",
+        "pyrokinesis"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Kinetic Grip",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "psionic",
+        "ranged",
+        "telekinesis"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Kinetic Pulse",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "area",
+        "psionic",
+        "telepathy"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Materialize",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "psionic",
+        "ranged",
+        "resopathy",
+        "strike"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Optic Blast",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "metamorphosis",
+        "psionic",
+        "ranged",
+        "strike"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Spirit Sword",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "animapathy",
+        "melee",
+        "psionic",
+        "strike"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Awe",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "psionic",
+        "ranged",
+        "strike",
+        "telepathy"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Choke",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "psionic",
+        "ranged",
+        "strike",
+        "telekinesis"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Precognition",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "chronopathy",
+        "melee",
+        "psionic"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Smolder",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "psionic",
+        "pyrokinesis",
+        "ranged",
+        "strike"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Flashback",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "chronopathy",
+        "psionic",
+        "ranged"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Inertia Soak",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "psionic",
+        "ranged",
+        "telekinesis"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Iron",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "metamorphosis",
+        "psionic",
+        "ranged"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Perfect Clarity",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "psionic",
+        "ranged",
+        "telepathy"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Fling Through Time",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "chronopathy",
+        "psionic",
+        "ranged",
+        "strike"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Force Orb",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "psionic",
+        "ranged",
+        "strike",
+        "telekinesis"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Reflector Field",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "area",
+        "psionic",
+        "telepathy"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Soul Burn",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "animapathy",
+        "psionic",
+        "ranged",
+        "strike"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Exothermic Shield",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "pyrokinesis",
+        "psionic",
+        "ranged"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Hypersonic",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "area",
+        "charge",
+        "psionic",
+        "telekinesis"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Mind Snare",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "psionic",
+        "ranged",
+        "strike",
+        "telepathy"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Soulbound",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "animapathy",
+        "psionic",
+        "ranged",
+        "strike"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Doubt",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "animapathy",
+        "psionic",
+        "ranged",
+        "strike"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Mindwipe",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "psionic",
+        "ranged",
+        "telepathy"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Rejuvenate",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "chronopathy",
+        "psionic",
+        "ranged"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Steel",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "metamorphosis",
+        "psionic",
+        "ranged"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  }
+]

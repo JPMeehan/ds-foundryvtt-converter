@@ -1,0 +1,564 @@
+[
+  {
+    "name": "Dance of Blows",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "area",
+        "psionic",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Faster than the Eye",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "psionic",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Inertial Step",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "psionic",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Joint Lock",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "psionic",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Kinetic Strike",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "psionic",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Magnetic Strike",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "psionic",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Phase Inversion Strike",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "psionic",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Pressure Points",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "psionic",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Chronal Spike",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "psionic",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Psychic Pulse",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "area",
+        "psionic"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Relentless Nemesis",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "psionic",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Stunning Blow",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "psionic",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Arcane Disruptor",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "psionic",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Impart Force",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "psionic",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Phase Strike",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "psionic",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "A Squad Unto Myself",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "area",
+        "psionic",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Absorption Field",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "psionic"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Molecular Rearrangement Field",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "psionic"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Stabilizing Field",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "psionic"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Synapse Field",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "psionic"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Anticipating Strike",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "psionic",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Iron Grip",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "psionic",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Phase Leap",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "psionic"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Synaptic Reset",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "area",
+        "psionic"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Arcane Purge",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "psionic",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Phase Hurl",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "melee",
+        "psionic",
+        "strike",
+        "weapon"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Scalar Assault",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "area",
+        "psionic"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  },
+  {
+    "name": "Synaptic Anchor",
+    "type": "ability",
+    "system": {
+      "source": {
+        "book": "Heroes",
+        "license": "Draw Steel Creator License",
+        "revision": 1
+      },
+      "keywords": [
+        "psionic"
+      ],
+      "type": "",
+      "trigger": "",
+      "distance": {},
+      "target": {}
+    }
+  }
+]
