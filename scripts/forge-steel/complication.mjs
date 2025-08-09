@@ -7,6 +7,11 @@ export default function parseComplication(source) {
     name: source.name,
     type: "complication",
     system: {
+      source: {
+        book: "Heroes",
+        license: "Draw Steel Creator License",
+        revision: 1,
+      },
       description: {
         value: `<p>${source.description}</p>`,
       },
