@@ -4,6 +4,7 @@ import path from "path";
 import yaml from "js-yaml";
 import { exit } from "process";
 import parseAbility from "./ability.mjs";
+import parseComplication from "./complication.mjs";
 
 if (!fs.existsSync("config.yaml")) exit(1);
 
@@ -15,8 +16,11 @@ const fsfile = await fs.promises.readFile(fileConfig.forgeSteel);
 
 const fsjson = JSON.parse(fsfile);
 
-console.log(fsjson.classes.length);
 for (const dscls of fsjson.classes) {
+  const classDir = path.join("results", "forge-steel", dscls.name.toLowerCase());
+  if (!fs.existsSync(classDir)) await fs.promises.mkdir(classDir, { recursive: true });
   const abilities = dscls.abilities.map(ability => parseAbility(ability));
-  await fs.promises.writeFile(`results/forge-steel/${dscls.name}-abilities.json`, JSON.stringify(abilities, null, 2), { encoding: "utf8" });
+  await fs.promises.writeFile(path.join(classDir, "abilities.json"), JSON.stringify(abilities, null, 2), { encoding: "utf8" });
 }
+const complications = fsjson.complications.map(complication => parseComplication(complication));
+await fs.promises.writeFile(path.join("results", "forge-steel", "complications.json"), JSON.stringify(complications, null, 2), { encoding: "utf8" });
