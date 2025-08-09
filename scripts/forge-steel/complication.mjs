@@ -6,6 +6,7 @@ export default function parseComplication(source) {
   const foundryData = {
     name: source.name,
     type: "complication",
+    folder: "luKqW8QDTBJo5AM4",
     system: {
       source: {
         book: "Heroes",
